@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Sakshi Nikahte</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Nikhate</h1>
 <h3 align="center">A Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.YE-uRCE8HJCsKCNXUiQ2pAHaFj&pid=Api&P=0&h=180">
