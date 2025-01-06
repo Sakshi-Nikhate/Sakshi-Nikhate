@@ -1,7 +1,3 @@
-<p align="center"> 
-    <img src=""C:\Users\admin\Downloads\Green Simple Watercolor Aesthetic Linkedin Banner (1).png"" align="center" height="150"></img>
-</p>
-
 <h1 align="center">Hi 👋, I'm Sakshi Nikhate</h1>
 <h3 align="center">A Software Engineer</h3>
 
